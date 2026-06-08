@@ -1,19 +1,19 @@
 # NGUYEN DUY TIEN
 **Automation Tester**
-- 📍 Location: Ho Chi Minh City, Vietnam
-- 📧 Email: nguyenduytien2905@gmail.com
-- 📞 Phone: 0961318418
-- 💻 GitHub: [github.com/duytien2608](https://github.com/duytien2608)
-- 🌐 LinkedIn: [https://www.linkedin.com/in/ti%E1%BA%BFn-nguy%E1%BB%85n-duy-a3083b410/]
+- Location: Ho Chi Minh City, Vietnam
+- Email: nguyenduytien2905@gmail.com
+- Phone: 0961318418
+- GitHub: [github.com/duytien2608](https://github.com/duytien2608)
+- LinkedIn: [https://www.linkedin.com/in/ti%E1%BA%BFn-nguy%E1%BB%85n-duy-a3083b410/]
 
 ---
 
-## 🎯 CAREER OBJECTIVE
+## CAREER OBJECTIVE
 With a strong foundation in software engineering, particularly in Java and full-stack development, my objective is to excel as a professional **Automation Tester / Software Development Engineer in Test (SDET)**. I aim to leverage my programming expertise to develop robust automation testing frameworks, ensure high system quality, enhance testing efficiency, and streamline the CI/CD software release process.
 
 ---
 
-## 🛠 TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 ### 1. Automation Testing & QA
 - **E2E Testing:** Selenium WebDriver, Playwright, Cypress.
@@ -35,7 +35,7 @@ With a strong foundation in software engineering, particularly in Java and full-
 
 ---
 
-## 💻 KEY PROJECTS
+## KEY PROJECTS
 
 ### 1. Workly System - *Recruitment & Human Resources Management Platform*
 **Role:** Automation Tester / SDET
@@ -67,7 +67,7 @@ With a strong foundation in software engineering, particularly in Java and full-
 
 ---
 
-## 🎓 EDUCATION
+## EDUCATION
 **Bachelor of Information Technology / Software Engineering**
 - Student ID: 21000025
 - Industrial University of Ho Chi Minh City (IUH)
@@ -75,7 +75,7 @@ With a strong foundation in software engineering, particularly in Java and full-
 
 ---
 
-## 🌟 WHY CHOOSE ME?
+## WHY CHOOSE ME?
 1. **SDET Mindset:** Hands-on experience coding and writing Unit/E2E Tests for both `Spring Boot` and `Workly-System` (TypeScript/React) projects. My deep understanding of Backend and Frontend architectures enables highly effective Root Cause Analysis and helps me write robust, anti-flaky automation scripts.
 2. **Practical E2E Experience:** Direct experience in building complex test workflows involving multiple roles and permissions (Admin, Employer). This demonstrates my ability to comprehend and analyze comprehensive business workflows.
 3. **Strong Java Foundation:** An extensive portfolio of Java projects provides a solid foundation for building, extending, and maintaining enterprise-level test automation frameworks.
